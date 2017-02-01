@@ -2,7 +2,6 @@
 """
 Created on Wed Feb 01 15:12:34 2017
 
-@author: nandankirnesh
 """
 import os
 import re
