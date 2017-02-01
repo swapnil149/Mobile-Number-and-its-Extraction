@@ -1,0 +1,7 @@
+Telephone numbers in India are 10 digits long (excluding an initial zero which is required at times) 
+and fall in at least four distinct categories:
+
+Landlines: Written as 0751-2634649, where AAA is the Subscriber Trunk Dialing code 
+(long distance code) and 2634649 is the phone number whereas some numbers
+are of type 8791258688,91+8090657982
+

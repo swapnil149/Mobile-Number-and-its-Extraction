@@ -1,0 +1,5 @@
+The total length of the Subscriber Trunk Dialing code and the phone number is 10 digits.
+Mobiles: Written as AAAAA-BBBBB for ease of remembering (though the prefix is either 2-digits or 4-digits in the numbering plan). 
+Mobile numbers which are not local need to be prefixed by a 0 while dialing, or by +91 (91 is the country code for India). 
+A mobile number written as +91-8791258688 is valid throughout India, and in other countries
+where the + is recognized as a prefix to the country code. 
